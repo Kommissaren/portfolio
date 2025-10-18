@@ -1,0 +1,14 @@
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\bin\Debug\net8.0\csharpprpg.exe
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\bin\Debug\net8.0\csharpprpg.deps.json
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\bin\Debug\net8.0\csharpprpg.runtimeconfig.json
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\bin\Debug\net8.0\csharpprpg.dll
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\bin\Debug\net8.0\csharpprpg.pdb
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\obj\Debug\net8.0\csharpprpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\obj\Debug\net8.0\csharpprpg.AssemblyInfoInputs.cache
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\obj\Debug\net8.0\csharpprpg.AssemblyInfo.cs
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\obj\Debug\net8.0\csharpprpg.csproj.CoreCompileInputs.cache
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\obj\Debug\net8.0\csharpprpg.dll
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\obj\Debug\net8.0\refint\csharpprpg.dll
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\obj\Debug\net8.0\csharpprpg.pdb
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\obj\Debug\net8.0\csharpprpg.genruntimeconfig.cache
+C:\Users\matij\OneDrive\Documents\CSProjects\csharpprpg\csharpprpg\obj\Debug\net8.0\ref\csharpprpg.dll
