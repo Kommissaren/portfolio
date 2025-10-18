@@ -1,0 +1,14 @@
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\bin\Debug\net8.0\CSRuLearn.exe
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\bin\Debug\net8.0\CSRuLearn.deps.json
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\bin\Debug\net8.0\CSRuLearn.runtimeconfig.json
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\bin\Debug\net8.0\CSRuLearn.dll
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\bin\Debug\net8.0\CSRuLearn.pdb
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\obj\Debug\net8.0\CSRuLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\obj\Debug\net8.0\CSRuLearn.AssemblyInfoInputs.cache
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\obj\Debug\net8.0\CSRuLearn.AssemblyInfo.cs
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\obj\Debug\net8.0\CSRuLearn.csproj.CoreCompileInputs.cache
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\obj\Debug\net8.0\CSRuLearn.dll
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\obj\Debug\net8.0\refint\CSRuLearn.dll
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\obj\Debug\net8.0\CSRuLearn.pdb
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\obj\Debug\net8.0\CSRuLearn.genruntimeconfig.cache
+C:\Users\matij\OneDrive\Documents\CSProjects\CSRuLearn\CSRuLearn\obj\Debug\net8.0\ref\CSRuLearn.dll
